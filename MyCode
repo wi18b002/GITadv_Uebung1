@@ -1,3 +1,7 @@
 printf("helloWorld");
 printf("Ciao WOrld");
+<<<<<<< HEAD
 printf("ha");
+=======
+printf("GITGITGIT");
+>>>>>>> develop
